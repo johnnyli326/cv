@@ -14,7 +14,11 @@
     
   前端技能：  1. HTML5
             2. CSS3
-            3. Jav
+            3. JavaScript
+            4. Vue.js
+            5. jQuery
+            6. Bootstrap
+            
  ## 作品
  1. RWD(響應式設計)：
  
